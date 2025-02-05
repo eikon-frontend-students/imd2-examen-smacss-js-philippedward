@@ -1,0 +1,14 @@
+.advantage {
+  display: flex;
+  padding-top: 20px;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+  h3 {
+    color: var(--dark-blue, #005564);
+    text-align: center;
+    font-family: "Nunito Sans";
+    font-size: 18px;
+    font-weight: 400;
+  }
+}

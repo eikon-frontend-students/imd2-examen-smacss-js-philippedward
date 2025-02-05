@@ -1,0 +1,14 @@
+.l-header {
+  display: flex;
+  padding: 0px 52px 0px 53px;
+  justify-content: center;
+  align-items: center;
+  background: var(--dark-blue, #005564);
+  margin-bottom: 60px;
+}
+
+.l-bottom {
+  padding: 42px 52px;
+  background: var(--light-blue, #c0d9d9);
+  margin-top: 60px;
+}
